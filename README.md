@@ -1,1 +1,6 @@
-# gra_w_godzine_noc_informatyka_Krakow_2022
+# Tworzymy grę w godzinę czyli Pygame Zero w akcji - noc informatyka 2022
+
+
+## Assety
+Projekt korzysta z następujących paczek assetów:
+* https://kenney.nl/assets/tappy-plane
